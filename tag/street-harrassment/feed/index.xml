@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>street harrassment &#8211; Notes on the wing</title>
+	<atom:link href="/tag/street-harrassment/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I give a fuck about an Oxford comma</description>
+	<lastBuildDate>Tue, 14 Aug 2018 17:32:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/11/cropped-notebook-152-26776-32x32.png</url>
+	<title>street harrassment &#8211; Notes on the wing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ongoing Street Harassment Diary, Volume 2</title>
+		<link>/ongoing-street-harassment-diary-volume-2/</link>
+					<comments>/ongoing-street-harassment-diary-volume-2/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Tue, 14 Aug 2018 17:25:47 +0000</pubDate>
+				<category><![CDATA[Feminism]]></category>
+		<category><![CDATA[feminism]]></category>
+		<category><![CDATA[street harrassment]]></category>
+		<guid isPermaLink="false">/?p=162</guid>
+
+					<description><![CDATA[It&#8217;s that time again! Another year of Going Outside While Female (okay, I posted this one a little late but I was busy, alright), in which I have painstakingly jotted down each incident of street harassment I experienced. In case you missed it, here&#8217;s Volume One. Why bother documenting this, instead of just ignoring it? Look,...]]></description>
+		
+					<wfw:commentRss>/ongoing-street-harassment-diary-volume-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ongoing Street Harassment Diary, Volume 1</title>
+		<link>/ongoing-street-harassment-diary-volume-1/</link>
+					<comments>/ongoing-street-harassment-diary-volume-1/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Mon, 19 Jun 2017 16:38:15 +0000</pubDate>
+				<category><![CDATA[Feminism]]></category>
+		<category><![CDATA[feminism]]></category>
+		<category><![CDATA[no scrubs]]></category>
+		<category><![CDATA[street harrassment]]></category>
+		<guid isPermaLink="false">/?p=129</guid>
+
+					<description><![CDATA[A little over a year ago, I started jotting down the details every time I got harassed when I stepped out of my apartment. I wanted something that I (and maybe other women?) can point to when we have to explain how frequently we have to deal with this crap. Keeping a record also helped...]]></description>
+		
+					<wfw:commentRss>/ongoing-street-harassment-diary-volume-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Road Rash</title>
+		<link>/road-rash/</link>
+					<comments>/road-rash/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Fri, 19 Sep 2014 09:10:01 +0000</pubDate>
+				<category><![CDATA[Feminism]]></category>
+		<category><![CDATA[feminism]]></category>
+		<category><![CDATA[running]]></category>
+		<category><![CDATA[street harrassment]]></category>
+		<guid isPermaLink="false">/?p=21</guid>
+
+					<description><![CDATA[“That’s a great way to stop traffic.” –much older man on a bike “Um, that’s a weird thing to say.” “No, it’s really not.” “Yeah, that really isn’t cool.” “Whatever.  Later.” ::gallantly rides off into the night:: This heartening exchange happened at 8:30pm on Saturday night, way out east on the Springwater Corridor as I was...]]></description>
+		
+					<wfw:commentRss>/road-rash/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

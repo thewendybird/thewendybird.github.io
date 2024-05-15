@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Backpacking &#8211; Notes on the wing</title>
+	<atom:link href="/category/backpacking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I give a fuck about an Oxford comma</description>
+	<lastBuildDate>Wed, 02 Dec 2015 06:49:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/11/cropped-notebook-152-26776-32x32.png</url>
+	<title>Backpacking &#8211; Notes on the wing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wild Women Sometimes Get the Blues</title>
+		<link>/wild-women-sometimes-get-the-blues/</link>
+					<comments>/wild-women-sometimes-get-the-blues/#comments</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2015 09:20:26 +0000</pubDate>
+				<category><![CDATA[Backpacking]]></category>
+		<category><![CDATA[backpacking]]></category>
+		<category><![CDATA[mental health]]></category>
+		<guid isPermaLink="false">/?p=25</guid>
+
+					<description><![CDATA[[Confessions of a Dirty Girl: Part II] I just completed my longest solo backpacking trip to date, so a lot of people have been asking me how my week in the woods was.  Unless you and I had at least half an hour to kill, I probably said something about the views being beautiful, the...]]></description>
+		
+					<wfw:commentRss>/wild-women-sometimes-get-the-blues/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Confessions of a Dirty Girl</title>
+		<link>/confessions-of-a-dirty-girl/</link>
+					<comments>/confessions-of-a-dirty-girl/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2015 09:16:21 +0000</pubDate>
+				<category><![CDATA[Backpacking]]></category>
+		<category><![CDATA[backpacking]]></category>
+		<category><![CDATA[feminism]]></category>
+		<guid isPermaLink="false">/?p=23</guid>
+
+					<description><![CDATA[(pictured above: the view from breakfast) There is a momentary lingering by the car- my link to civilization and the comforts of the modern world- just a moment&#8230;and then I&#8217;m off.  My hiking shoes take me step after step away from the trailhead and into the wilderness for another solo backpacking trip. I do have...]]></description>
+		
+					<wfw:commentRss>/confessions-of-a-dirty-girl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

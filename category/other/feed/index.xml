@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Other &#8211; Notes on the wing</title>
+	<atom:link href="/category/other/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I give a fuck about an Oxford comma</description>
+	<lastBuildDate>Fri, 06 Oct 2017 04:32:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/11/cropped-notebook-152-26776-32x32.png</url>
+	<title>Other &#8211; Notes on the wing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Flag Waving and Hand Wringing</title>
+		<link>/flag-waving-hand-wringing/</link>
+					<comments>/flag-waving-hand-wringing/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2017 04:32:55 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[Social Justice]]></category>
+		<category><![CDATA[patriotism]]></category>
+		<category><![CDATA[protest]]></category>
+		<category><![CDATA[racism]]></category>
+		<guid isPermaLink="false">/?p=138</guid>
+
+					<description><![CDATA[CW: police brutality, violence, racism. I haven&#8217;t been able to stop thinking about the athlete protests (mostly in the NFL, but in other sports as well) because 1. the internet won&#8217;t shut up about it and 2. I can&#8217;t believe this is actually controversial. It seems ludicrous to me that the majority of Americans aren&#8217;t...]]></description>
+		
+					<wfw:commentRss>/flag-waving-hand-wringing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Dream Time</title>
+		<link>/the-dream-time/</link>
+					<comments>/the-dream-time/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2014 09:05:51 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<guid isPermaLink="false">/?p=17</guid>
+
+					<description><![CDATA[This time of year is said to come in like a lion.  For me, it also floats by like a dream.  Not a sweet day dream, but a real dream with mysteries, breaks from reality, and bits of magic.  Time is manipulated in strange ways where normal tasks seem to take hours longer than they...]]></description>
+		
+					<wfw:commentRss>/the-dream-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nine of Wands</title>
+		<link>/nine-of-wands/</link>
+					<comments>/nine-of-wands/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2014 08:32:32 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[selfwork]]></category>
+		<category><![CDATA[spirituality]]></category>
+		<guid isPermaLink="false">/?p=9</guid>
+
+					<description><![CDATA[My watch word in this fledgling new year has revealed itself to be Boundaries.  I&#8217;ve always struggled with creating healthy boundaries- both in keeping out the things that invade and make me feel unhappy, unhealthy and unsafe, and in letting in love, self-care, help, and friendship. Women are generally socialized to be aquiescent, and this...]]></description>
+		
+					<wfw:commentRss>/nine-of-wands/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

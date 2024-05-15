@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Citizen Arrest	</title>
+	<atom:link href="/citizen-arrest/feed/" rel="self" type="application/rss+xml" />
+	<link>/citizen-arrest/</link>
+	<description>I give a fuck about an Oxford comma</description>
+	<lastBuildDate>Sat, 28 Nov 2015 20:52:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		By: henckels knives		</title>
+		<link>/citizen-arrest/#comment-3</link>
+
+		<dc:creator><![CDATA[henckels knives]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2015 18:07:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=27#comment-3</guid>
+
+					<description><![CDATA[very good :)]]></description>
+			<content:encoded><![CDATA[<p>very good 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

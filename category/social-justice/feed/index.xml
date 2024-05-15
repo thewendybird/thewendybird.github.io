@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Social Justice &#8211; Notes on the wing</title>
+	<atom:link href="/category/social-justice/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I give a fuck about an Oxford comma</description>
+	<lastBuildDate>Wed, 13 Mar 2019 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/11/cropped-notebook-152-26776-32x32.png</url>
+	<title>Social Justice &#8211; Notes on the wing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>After Neverland</title>
+		<link>/after-neverland/</link>
+					<comments>/after-neverland/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2019 06:44:50 +0000</pubDate>
+				<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[Social Justice]]></category>
+		<guid isPermaLink="false">/?p=185</guid>
+
+					<description><![CDATA[cn: emotional and sexual abuse, no graphic descriptions I saw Part I of the Leaving Neverland documentary and have some thoughts, but first I want to acknowledge the survivors who told their stories in brutally honest detail. Wade Robeson and James Safechuck, thank you. What struck me the most, besides how horrific these kids&#8217; experiences...]]></description>
+		
+					<wfw:commentRss>/after-neverland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flag Waving and Hand Wringing</title>
+		<link>/flag-waving-hand-wringing/</link>
+					<comments>/flag-waving-hand-wringing/#respond</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2017 04:32:55 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[Social Justice]]></category>
+		<category><![CDATA[patriotism]]></category>
+		<category><![CDATA[protest]]></category>
+		<category><![CDATA[racism]]></category>
+		<guid isPermaLink="false">/?p=138</guid>
+
+					<description><![CDATA[CW: police brutality, violence, racism. I haven&#8217;t been able to stop thinking about the athlete protests (mostly in the NFL, but in other sports as well) because 1. the internet won&#8217;t shut up about it and 2. I can&#8217;t believe this is actually controversial. It seems ludicrous to me that the majority of Americans aren&#8217;t...]]></description>
+		
+					<wfw:commentRss>/flag-waving-hand-wringing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

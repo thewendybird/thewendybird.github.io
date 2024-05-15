@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>glutenfree &#8211; Notes on the wing</title>
+	<atom:link href="/tag/glutenfree/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I give a fuck about an Oxford comma</description>
+	<lastBuildDate>Sat, 28 Nov 2015 20:52:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/11/cropped-notebook-152-26776-32x32.png</url>
+	<title>glutenfree &#8211; Notes on the wing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Citizen Arrest</title>
+		<link>/citizen-arrest/</link>
+					<comments>/citizen-arrest/#comments</comments>
+		
+		<dc:creator><![CDATA[justawren]]></dc:creator>
+		<pubDate>Sun, 20 Sep 2015 09:23:05 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[feminism]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[glutenfree]]></category>
+		<category><![CDATA[vegan]]></category>
+		<guid isPermaLink="false">/?p=27</guid>
+
+					<description><![CDATA[It is the moment before I have to explain why I would not like a cookie, or a beer, or a bagel, but thank you.  For any number of reasons my polite refusal has yielded more questions, and I am now forced to explain myself.  Because I have had this conversation many times before, I...]]></description>
+		
+					<wfw:commentRss>/citizen-arrest/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
